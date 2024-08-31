@@ -1,5 +1,6 @@
 Aug 31, 2024
 
+* resume: debugger with 27 doesn't simply support operators
 * go through broken case of 27
 * go through happy case of 311
 * compare `dis.get_instructions()` with bytecode
