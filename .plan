@@ -1,8 +1,8 @@
 Aug 31, 2024
 
 go through broken case of 27
-go through happy case of 311
 
+* go through happy case of 311
 * compare `dis.get_instructions()` with bytecode
 * compare 27 and 311 bytecode
 * reconfigure the project via docker compose
