@@ -1,0 +1,7 @@
+services:
+  python2:
+    build:
+      dockerfile: docker/py27/Dockerfile
+  python3:
+    build:
+      dockerfile: docker/py311/Dockerfile

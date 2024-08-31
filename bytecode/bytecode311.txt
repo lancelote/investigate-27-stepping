@@ -1,0 +1,13 @@
+19           0 RESUME                   0
+20           2 LOAD_GLOBAL              1 (NULL + f)
+            14 PRECALL                  0
+            18 CALL                     0
+            28 LOAD_GLOBAL              3 (NULL + g)
+            40 PRECALL                  0
+            44 CALL                     0
+            54 BINARY_OP                0 (+)
+            58 LOAD_GLOBAL              5 (NULL + h)
+            70 PRECALL                  0
+            74 CALL                     0
+            84 BINARY_OP                0 (+)
+            88 RETURN_VALUE

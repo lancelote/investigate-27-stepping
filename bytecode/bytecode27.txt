@@ -1,0 +1,9 @@
+20           0 LOAD_GLOBAL              0 (f)
+             3 CALL_FUNCTION            0
+             6 LOAD_GLOBAL              1 (g)
+             9 CALL_FUNCTION            0
+            12 BINARY_ADD          
+            13 LOAD_GLOBAL              2 (h)
+            16 CALL_FUNCTION            0
+            19 BINARY_ADD          
+            20 RETURN_VALUE    
