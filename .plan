@@ -2,7 +2,7 @@ Aug 31, 2024
 
 go through happy case of 311
 go through broken case of 27
-compare 27 and 311 bytecode
+* compare 27 and 311 bytecode
 * reconfigure the project via docker compose
 * get 27 bytecode
 * get 311 bytecode
