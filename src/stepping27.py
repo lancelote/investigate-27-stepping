@@ -51,8 +51,7 @@ def get_instructions(co):
             extended_arg = 0
             i = i+2
             if op == EXTENDED_ARG:
-                # extended_arg = oparg*65536L
-                extended_arg = oparg*65536
+                extended_arg = oparg*65536L
             if op in hasconst:
                 argval = repr(co.co_consts[oparg])
             elif op in hasname:
